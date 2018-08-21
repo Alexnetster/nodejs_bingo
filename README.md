@@ -1,1 +1,1 @@
-# web3-ajax-master
+# node.js bingo server/client
